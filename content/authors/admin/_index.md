@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ashrakat Elshehawy
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,41 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Visiting Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Houston
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include .
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- The Political Economy of Authoritarian Political Institutions
+- The Economic Affects of Colonialism
+- Political Islam & Propaganda Methods
+- Machine Learning
+- Text Analysis/Natural Language Processing
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: DPhil (PhD) in Politics
+    institution: University of Oxford, Oxfordshire, UK
+    year: starting in October 2019 
+  - course: MA in Political Science (Research Track: Advanced Quantitative Methods)
+    institution: University of Mannheim, Mannheim, Germany
+    year: 2018
+  - course: Visiting Student
+    institution: Trinity College Dublin, Dublin, Ireland
+    year: 2015
+  - course: BA in Political Scinece/Psychology
+    institution: University of Mannheim, Mannheim, Germany
+    year: 2016
+  - course: German Abitur (High School Diploma)
+    institution: Deutsche Schule der Borromäerinnen, Alexandria, EGypt
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +53,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:ashrakatelshehawy@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AshaElshehawy
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=zLC4_ZsAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aelshehawy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,11 +74,14 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+# Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a visiting scholar at the University of Houston's Department of Political Science.
+I am joining the Department of Politics and International Relations of the University of Oxford as a Doctoral Student in October 2019.  I hold a Masters Degree in Political Science from the University of Mannheim, where I focused on Advanced Quantitative Methods. I hold a Bachelors degree in Political Science and Psychology also from the University of Mannheim. I was a visiting undergraduate student at Trinity College Dublin. In Mannheim I was involved in research projects at Gesis and Mannheim Center for European Social Research, I taught Research Design, and was part of the editorial team of the American Political Science Review. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+My research focuses on economic mechanisms of the survival of authoritarian institutions. I approach research questions about the political economy of authoritarianism by investigating historical economic policies of colonialism and state-building. I also investigate business-politics.
+I am also very
